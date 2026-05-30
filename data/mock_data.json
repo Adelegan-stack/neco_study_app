@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "subject": "Chemistry",
+    "year": 2022,
+    "type": "OBJ",
+    "question_number": 12,
+    "question_text": "What is the valency of Carbon?",
+    "options": ["A: 2", "B: 3", "C: 4", "D: 5"],
+    "correct_answer": "C",
+    "explanation": "Carbon is in Group 14 of the periodic table and has 4 electrons in its outermost shell, allowing it to form 4 covalent bonds.",
+    "image_path": null
+  },
+  {
+    "id": 2,
+    "subject": "Mathematics",
+    "year": 2021,
+    "type": "OBJ",
+    "question_number": 8,
+    "question_text": "Simplify: 2x + 3x - x",
+    "options": ["A: 2x", "B: 3x", "C: 4x", "D: 5x"],
+    "correct_answer": "C",
+    "explanation": "Combine the like terms: 2x + 3x = 5x, and then 5x - x = 4x.",
+    "image_path": null
+  },
+  {
+    "id": 3,
+    "subject": "Chemistry",
+    "year": 2020,
+    "type": "THEORY",
+    "question_number": "1a",
+    "question_text": "Explain the contact process for the industrial manufacture of tetraoxosulphate(VI) acid.",
+    "options": [],
+    "correct_answer": "1. Roasting of sulfur to produce SO2.\n2. Catalytic oxidation of SO2 to SO3.\n3. Absorption of SO3 in H2SO4 to form oleum.\n4. Dilution of oleum with water.",
+    "explanation": null,
+    "image_path": null
+  },
+  {
+    "id": 4,
+    "subject": "Physics",
+    "year": 2019,
+    "type": "THEORY",
+    "question_text": "Define simple harmonic motion (SHM).",
+    "question_number": "2b",
+    "options": [],
+    "correct_answer": "Simple harmonic motion is the periodic motion of a body where the restoring force is directly proportional to its displacement from the equilibrium position and acts in the opposite direction.",
+    "explanation": null,
+    "image_path": null
+  }
+]
